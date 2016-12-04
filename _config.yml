@@ -7,7 +7,7 @@ baseurl: "/"
 url: "http://cqmcstudios.com"
 twitter_username: Connor_Cleve
 github_username:  connorcleve
-facebook_username:  CQMCStudiosq
+facebook_username:  CQMCStudios
 
 # Build settings
 markdown: kramdown
